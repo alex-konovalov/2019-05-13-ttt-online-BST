@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "cp"       # what kind of Carpentry (must be either "dc" or "swc")
-venue: "Online"       # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Online Carpentries Instructor Training" # brief name of host site without address (e.g., "Euphoric State University")
 address: "https://carpentries.zoom.us/j/FIXME" # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"         # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"        # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
